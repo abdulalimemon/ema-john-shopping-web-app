@@ -1,0 +1,47 @@
+.container{
+    border: 1px solid #95A0A7;
+    border-radius: 10px;
+    padding: 0px;
+    height: 520px;
+    position: relative;
+}
+.upper-cart{
+    padding: 8px;
+    
+}
+.upper-cart h3{
+    font-size: 20px;
+}
+.image{
+    width: 250px;
+    height: 250px;
+}
+.image img{
+    width: 100%;
+    border-radius: 10px;
+}
+.titles{
+    margin: 15px 0;
+    
+}
+.product-info{
+    padding: 10px;
+}
+.product-btn{
+    width: 100%;
+}
+.product-btn .btn {
+    width: 100%;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 10px;
+    background-color: #FFE0B3;
+    border: 0px solid;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: absolute;
+    bottom: 0;
+}
+.btn-icon{
+    margin-left: 5px;
+}
