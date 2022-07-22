@@ -1,4 +1,4 @@
-.header{
+.header {
     background-color: #1C2B35;
     height: 80px;
     display: flex;
@@ -12,6 +12,17 @@
     color: #fff;
     font-size: 17px;
 }
+
 .header a:hover {
     color: rgb(197, 2, 2);
+}
+
+.user-signout {
+    padding: 5px 15px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.user-signout:hover {
+    background-color: rgb(197, 2, 2, 0.9);
 }

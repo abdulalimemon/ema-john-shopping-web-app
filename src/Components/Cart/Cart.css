@@ -1,0 +1,7 @@
+.cart{
+    display: flex;
+    position: sticky;
+    top: 30px;
+    flex-direction: column;
+    align-items: center;
+}

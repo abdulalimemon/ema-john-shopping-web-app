@@ -11,4 +11,13 @@
 }
 .cart-container{
     background-color: rgba(255, 153, 0, 0.3);
+    
+    
+}
+.btn {
+    font-size: 17px;
+    font-weight: 600;
+    padding: 10px;
+    background-color: rgb(13 110 253 / 25%);
+    border: 0px solid;
 }
