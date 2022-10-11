@@ -37,7 +37,7 @@ const Shipment = () => {
                     <div className="input-group">
                         <div >
                             <label htmlFor="name">Your Name</label>
-                            <input onBlur={handleNameBlur} type="text" name="name" required />
+                            <input onBlur={handleNameBlur} value={user?.name} type="text" name="name" required />
                         </div>
                     </div>
                     <div className="input-group">
